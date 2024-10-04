@@ -116,8 +116,6 @@ p {
         height: 100%;
     }
     .weather_box {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
+        padding-top: 100px;
     }
 }
