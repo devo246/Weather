@@ -61,6 +61,10 @@ button {
     cursor: pointer;
 }
 
+button i {
+    color: #353434;
+}
+
 .result {
     display: flex;
     flex-direction: column;
@@ -116,6 +120,6 @@ p {
         height: 100%;
     }
     .weather_box {
-        padding-top: 70px;
+        padding-top: 90px;
     }
 }
